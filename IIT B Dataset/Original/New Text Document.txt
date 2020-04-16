@@ -1,0 +1,1 @@
+Contains the pruned corpuses got from the IIT Bombayy English-Hindi Corpus
